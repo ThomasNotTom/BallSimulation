@@ -13,4 +13,4 @@ The code is written in C#.
 
 The entrance point is "Program.cs"
 
-I could not generate a general build, however all other files are provided. So building / running for yourself should not be too difficult
+A build can be found at "bin/Debug/ConsoleApplication1.exe"
