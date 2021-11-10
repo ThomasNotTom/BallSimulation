@@ -31,6 +31,10 @@
         <ErrorReport>prompt</ErrorReport>
         <WarningLevel>4</WarningLevel>
     </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'x64|x64' ">
+      <OutputPath>bin\x64\x64\</OutputPath>
+      <PlatformTarget>x64</PlatformTarget>
+    </PropertyGroup>
     <ItemGroup>
         <Reference Include="sfml-audio, Version=2.4.2.0, Culture=neutral, PublicKeyToken=null">
           <HintPath>C:\Users\Thomas\AppData\Local\JetBrains\Toolbox\apps\Rider\libraries\SFML.Net-2.4\lib\sfml-audio.dll</HintPath>
@@ -60,6 +64,7 @@
       <Content Include="csfml-window-2.dll" />
       <Content Include="openal32.dll" />
       <Content Include="OpenTK.dll" />
+      <Content Include="readme.md" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
