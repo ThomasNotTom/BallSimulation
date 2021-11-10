@@ -1,0 +1,11 @@
+E:\Code\ActualGame\Client\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Code\ActualGame\Client\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Code\ActualGame\Client\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+E:\Code\ActualGame\Client\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+E:\Code\ActualGame\Client\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Code\ActualGame\Client\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Code\ActualGame\Client\ConsoleApplication1\ConsoleApplication1\bin\Debug\sfml-audio.dll
+E:\Code\ActualGame\Client\ConsoleApplication1\ConsoleApplication1\bin\Debug\sfml-graphics.dll
+E:\Code\ActualGame\Client\ConsoleApplication1\ConsoleApplication1\bin\Debug\sfml-system.dll
+E:\Code\ActualGame\Client\ConsoleApplication1\ConsoleApplication1\bin\Debug\sfml-window.dll
+E:\Code\ActualGame\Client\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete
