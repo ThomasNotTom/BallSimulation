@@ -6,6 +6,7 @@
     <li>WASD will move all balls</li>
     <li>Space bar will pause all balls currently on the screen</li>
     <li>Left mouse will reset the velocity of all balls</li>
+    <li>This code uses very ineffeciant algorithms and therefore may run slow on older machines. I would recomend altering the "ballCap" in "Program.cs<. By default this is 80,000</li>
 
 </ul>
 
